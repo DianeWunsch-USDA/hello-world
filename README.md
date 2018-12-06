@@ -1,3 +1,3 @@
 # hello-world
-My practice repository
+My practice repository.
 There is nothing to see here.
